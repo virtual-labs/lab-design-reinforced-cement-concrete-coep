@@ -6,7 +6,7 @@
   },
   "lab": "Design of Reinforced Cement Concrete Structure Lab",
   "lab_display_name": "Design of Reinforced Cement Concrete Structure Lab",
-  "phase": 3,
+  "phase": "3-ext",
   "collegeName": "COEP",
   "baseUrl": "drccs-coep.vlabs.ac.in",
   "introduction": "Welcome to the Virtual Laboratory on design of reinforced concrete structures developed at COEPTECH. This lab is designed to provide a practical learning experience by simulating real life scenarios in a digital environment. The laboratory emphasizes both conceptual clarity and applied knowledge.<br>The experiments included in this module are structured to cover fundamental principles while gradually introducing advanced topics. Each experiment is accompanied by theoretical background, step by step procedures, pre and post lab quizzes, and simulation based exercises. This ensures that learners develop not only the ability to perform experiments but also the critical thinking and analytical skills required to interpret results. The platform thus promotes experiential learning, encourages self-paced exploration and prepares students for practical problem solving in real world engineering and scientific contexts.",
